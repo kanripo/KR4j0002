@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 六一詞
+#+DATE: 2015-08-25 00:46:51.612239
+#+PROPERTY: ID KR4j0002
+#+PROPERTY: BASEEDITION WYG    
